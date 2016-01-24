@@ -1,0 +1,6 @@
+* Colorisateurs
+
+Ce dépôt regroupe un tas de colorisateurs écrits en AWK pour mes besoins
+personnels en terme de filtrage et de colorisation de fichiers de logs.
+J'essaie de les catégoriser par application, mais je pense qu'inévitablement
+viendra un jour un dossier =misc=.
